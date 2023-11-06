@@ -1,0 +1,1 @@
+const feeds_fetching ='http://localhost:8003/'
